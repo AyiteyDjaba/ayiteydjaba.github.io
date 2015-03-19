@@ -63,7 +63,7 @@ body {
 }
 
 .hero{
-	background: url("../../img/develop/template-themes/portfolio6.jpg");
+	background: url("https://unsplash.imgix.net/photo-1422405153578-4bd676b19036?q=75&fm=jpg&s=5ecc4c704ea97d85ea550f84a1499228");
 	background-size: cover;
 	box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.15);
 	height: 80%;
