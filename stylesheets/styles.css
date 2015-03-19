@@ -64,6 +64,7 @@ body {
 
 .hero{
 	background: url("http://lorempixel.com/1800/800/nature");
+	background-color:#FF9800;
 	background-size: cover;
 	box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.15);
 	height: 80%;
